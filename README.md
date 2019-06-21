@@ -1,2 +1,2 @@
 # DataScienceCodeSamples
-This project aims at developing various statistical analysis using R and SAS.
+This project aims at developing various statistical analysis technique using R / SAS.
